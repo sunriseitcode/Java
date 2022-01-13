@@ -4,5 +4,5 @@
 带时区的日期和时间：ZonedDateTime；
 时刻：Instant；
 时区：ZoneId，ZoneOffset；
-时间间隔：Duration。
+时间间隔：Duration
 ```
